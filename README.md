@@ -31,28 +31,29 @@
 # Estrutura de pastas e arquivos:
 
 Raiz:
-    - Ambiente de Desenvolvimento
-        - Devilbox
-        - Ngnix
-        - Wordpress
+- Ambiente de Desenvolvimento
 
-    - Ferramentas de Build
-        - Composer
-        - npm
-        - yarn
+    - Devilbox
+    - Ngnix
+    - Wordpress
 
-    - Ferramentas de Produtividade
-        - Evernote
-        - Notion 
-        - Simplenote
+- Ferramentas de Build
+    - Composer
+    - npm
+    - yarn
 
-    - Ferramentas e Aplicativos de Desenvolvimento
-        - IDE
-            - Atom
-            - Sublime
-            - VS Code
-        - Insomnia
-        - Linux
-        - Postman
-        
-    - Imagens
+- Ferramentas de Produtividade
+    - Evernote
+    - Notion 
+    - Simplenote
+
+- Ferramentas e Aplicativos de Desenvolvimento
+    - IDE
+        - Atom
+        - Sublime
+        - VS Code
+    - Insomnia
+    - Linux
+    - Postman
+
+- Imagens
