@@ -53,7 +53,13 @@ Raiz:
         - Sublime
         - VS Code
     - Insomnia
-    - Linux
     - Postman
 
-- Imagens
+- Linguagens e Sistemas Operacionais
+    - Linux
+    - Markdown
+    - NodeJs
+    - PHP
+    - Pyton
+    
+- Media
