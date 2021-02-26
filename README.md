@@ -26,9 +26,33 @@
  
  - Não enviar qualquer tipo de arquivo com o intuito de contorno de lincenças ou piratarias de produtos pagos;
 
-
-
-
-
-
 ### Toda contribuição será revisa por mim e será invalidade qualquer tipo de má conduta ou conteúdo impróprio.
+
+# Estrutura de pastas e arquivos:
+
+Raiz:
+    - Ambiente de Desenvolvimento
+        - Devilbox
+        - Ngnix
+        - Wordpress
+
+    - Ferramentas de Build
+        - Composer
+        - npm
+        - yarn
+
+    - Ferramentas de Produtividade
+        - Evernote
+        - Notion 
+        - Simplenote
+
+    - Ferramentas e Aplicativos de Desenvolvimento
+        - IDE
+            - Atom
+            - Sublime
+            - VS Code
+        - Insomnia
+        - Linux
+        - Postman
+        
+    - Imagens
